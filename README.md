@@ -24,8 +24,8 @@ Para uma descrição detalhada do projeto, metodologia e resultados, por favor c
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/ArthurCisotto/AI_NLP.git
+   cd AI_NLP
    ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
